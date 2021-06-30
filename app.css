@@ -1,0 +1,19 @@
+.pokemon{
+  display: inline-block;
+}
+
+.pokemon span{
+  display: block;
+  text-align: center;
+}
+
+body{
+  background-color: seashell;
+}
+
+h1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: red;
+}
+
